@@ -52,3 +52,9 @@ This Excel workbook contains several interconnected sheets that provide a holist
 3.  Start with the **"Customer Performance Report"** sheet for a high-level overview.
 4.  Use the slicers at the top of the dashboard to filter the entire report by **Year, Region, or Product Category**.
 5.  Navigate to the other sheets for more detailed analysis.
+
+
+
+
+
+![Profit & Loss By Fiscal Year](Screenshot (11).png")
