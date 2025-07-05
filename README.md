@@ -55,6 +55,3 @@ This Excel workbook contains several interconnected sheets that provide a holist
 
 
 
-
-
-![Profit & Loss By Fiscal Year](Screenshot (11).png")
